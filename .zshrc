@@ -22,25 +22,9 @@ alias ls='ls --color=auto'
    alias ll='ls -alF' 
    alias la='ls -A' 
    alias l='ls -CF' 
-   alias goSegundo='cd ~/Documents/Universidad/2º' 
-   alias goPscd='cd ~/Documents/Universidad/2º/PSCD' 
-   alias goTcomp='cd ~/Documents/Universidad/2º/TCOMP'
-   alias goEda='cd ~/Documents/Universidad/2º/EDA'
-   alias goRedes='cd ~/Documents/Universidad/2º/REDES'
-   alias goAoc2='cd ~/Documents/Universidad/2º/AOC2'
-   alias goBases='cd ~/Documents/Universidad/2º/BASES'
-   alias goAdsis='cd ~/Documents/Universidad/2º/ADSIS'
-   alias goTecpro='cd ~/Documents/Universidad/2º/TECPRO'
-   alias goIpo='cd ~/Documents/Universidad/2º/IPO'
-  
-   alias goTercero='cd ~/Documents/Universidad/3º'
-   alias goIA='cd ~/Documents/Universidad/3º/IA'
-   alias goIngSof='cd ~/Documents/Universidad/3º/IngSof'
-   alias goPH='cd ~/Documents/Universidad/3º/PH'
-   alias goSisDis='cd ~/Documents/Universidad/3º/SisDis'
-   alias goSisInfo='cd ~/Documents/Universidad/3º/SisInfo'
-
- 
+   alias goMaster='cd ~/Documents/Master/'
+   alias skain='open -a "Google Chrome" https://www.twitch.tv/skain'
+   alias are-dev='open -a "Google Chrome" http://localhost:4321'
 
 #Prompt
 
